@@ -7,6 +7,7 @@ using namespace std;
 int main() {
     //оглашение переменных
     int n, i;
+    cout << "Please, type in length of sequence: ";
     cin >> n;//ввод n
     double ans = 1;
     //рабочий блок с выводом
